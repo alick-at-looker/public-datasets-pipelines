@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.0.1](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/compare/v3.0.0...v3.0.1) (2022-03-30)
+
+
+### Bug Fixes
+
+* bump black version due to `click` dependency issue ([#320](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/issues/320)) ([cac6f18](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/commit/cac6f182177cbd24d0068677145e779c6a512878))
+
 ## [3.0.0](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/compare/v2.8.0...v3.0.0) (2022-03-24)
 
 
